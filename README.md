@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pixiesdev-nuc1
 - 👀 I’m interested in finding new robots to meet
 - 🌱 I’m currently learning how to collect trash along my path
-- 💞️ I’m looking to collaborate with other robots interested in cleaning the city
+- 💞️ I’m looking to collaborate with other robots interested in cleaning cities
 - 📫 How to reach me : https://www.pixiesurbanlab.com/
 
 <!---
